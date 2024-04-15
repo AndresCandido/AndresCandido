@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- 
+![My Stats](https://github-readme-stats.vercel.app/api?username=AndresCandido&count_private=true&show_icons=true&theme=tokyonight) 
+-->
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCandido,hlsl&layout=compact&langs_count=10&theme=tokyonight)
+
 <!--
 **AndresCandido/AndresCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
