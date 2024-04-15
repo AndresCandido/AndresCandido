@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 Welcome my Github page, a collection of my personal and academic projects!
 
