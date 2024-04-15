@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+Welcome my Github page, a collection of my personal and academic projects!
+
 <!-- 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=AndresCandido&count_private=true&show_icons=true&theme=tokyonight) 
 -->
