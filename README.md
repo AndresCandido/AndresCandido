@@ -3,10 +3,10 @@
 Welcome my Github page, a collection of my personal and academic projects!
 
 <!-- 
-![My Stats](https://github-readme-stats.vercel.app/api?username=AndresCandido&count_private=true&show_icons=true&theme=tokyonight) 
+![My Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AndresCandido&count_private=true&show_icons=true&theme=tokyonight) 
 -->
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCandido&layout=compact&langs_count=10&theme=tokyonight)
+![Top Language](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=AndresCandido&layout=compact&langs_count=10&theme=tokyonight)
 
 <!--
 **AndresCandido/AndresCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
